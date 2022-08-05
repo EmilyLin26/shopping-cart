@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Merriweather', serif;
+    
+    
+    
+}
+
+
+
+@media screen and (max-width:800px) {
+    //nav
+    
+}
+
+@import "./nav";
+@import "./footer";
+@import "./cards1";
+@import "./cards2";
+@import "./aboutUs";
+@import "./cart"
+

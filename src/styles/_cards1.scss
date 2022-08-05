@@ -1,0 +1,68 @@
+
+div.background{
+    background-color:rgb(252, 242, 227) ;
+    min-height: 100vh;
+    
+    div.container{
+        background-color: white;
+        width: 80%;
+        border-radius: 40px;
+        position: relative;
+        top:2rem;
+        padding: 2.5rem;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        
+
+    }
+}
+
+    
+.cards1{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 1rem 1rem 3rem ;
+    width: 250px;
+    height: 400px;
+    padding: 1.5rem;
+    border: 3px solid rgb(199, 176, 139);
+    text-align: center;
+    
+    
+    
+    img{
+        width: 200px;
+        height: 163px;
+        object-fit: cover;
+    }
+
+    .details p:nth-child(1){
+        font-weight: bold;
+        font-size: 1.25rem;
+        
+    }
+
+    .details p:nth-child(2){
+        text-decoration: line-through;
+        font-weight:500;
+        color: grey;
+    }
+
+    .details p:nth-child(3){
+        font-weight: bold;
+        
+    }
+    
+    button{
+        border: none;
+        padding: 0.6rem;
+        margin: 0rem 3rem;
+        border-radius: 10px;
+        background-color: #d13e3e;
+        color: white;
+        font-weight: 700px;
+        
+    }
+ 
+}
