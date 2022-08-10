@@ -3,7 +3,7 @@
 Because of case sensitive issue, there're no imgs shown on the website.
 * Demo video: https://www.youtube.com/watch?v=amzmhSQmvBs
 ### React project : 
-* includes maping data, useState, lifting State Up, useEffect, localStorage
+* includes mapping data, useState, lifting State Up, useEffect, localStorage
 
 ### Functions:
 * addToCart and add/ remove items function
