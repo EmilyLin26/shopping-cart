@@ -31,7 +31,7 @@ const Cart = ({ cartItems, onAdd, onRemove }) => {
 					{cartItems.map((item) => (
 						<div key={item.id} className="table">
 							<div className="products">
-								<img src={item.img} />
+								<img src={item.img} alt="" />
 								<p className="pTitle">{item.title}</p>
 
 								<div className="qContainer">
