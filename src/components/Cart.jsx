@@ -67,8 +67,8 @@ const Cart = ({ cartItems, onAdd, onRemove }) => {
 							alert("Your shopping cart is still empty.");
 						} else {
 							localStorage.clear();
+							alert("Thanks for your purchase!");
 							navigate("/cart-2");
-							window.location.reload();
 						}
 					}}
 				>

@@ -12,7 +12,7 @@ const CookiesData = {
 			title: "Chocolate",
 			price: 75,
 			description: "(5 pcs/ pack)",
-			img: "imgs/cookies-2.JPG",
+			img: "imgs/cookies-2.jpg",
 		},
 		{
 			id: 12,
