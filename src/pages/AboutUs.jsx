@@ -3,7 +3,7 @@ import React from "react";
 const AboutUs = () => {
 	return (
 		<div className="background">
-			<div className="container" style={{ padding: "20px", maxHeight: "67vh" }}>
+			<div className="container" style={{ padding: "20px", maxHeight: "80vh" }}>
 				<img src="/imgs/about.jpg" alt="" className="imgAbout" />
 				<div className="text">
 					<h2>About us</h2>

@@ -2,7 +2,7 @@ import React from "react";
 
 const Cards1 = ({ item, onAdd }) => {
 	return (
-		<section>
+		<section className="cardsFrame">
 			<div className="cards1">
 				<div className="img">
 					<img src={item.img} alt="" />

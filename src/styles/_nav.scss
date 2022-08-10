@@ -20,7 +20,7 @@ nav{
         border-radius: 50%;
         flex: 1 1 200px;
         border: 1px solid rgb(199, 176, 139) ;
-        z-index: 2;
+        z-index: 4;
         p.iconStyle{
            
             font-size: 2rem;
@@ -34,7 +34,7 @@ nav{
         list-style-type: none;
         display: flex;
         flex-wrap: wrap;
-        flex: 6 1 600px;
+        flex: 5 1 600px;
         margin-left: 10rem;
         position: relative;
         top:8vh;
@@ -57,27 +57,52 @@ nav{
         }
     }
 
+    
+
     div.cart{
-        svg{
-            color:#8b6f41;
-            width:6vh;
-            height: 6vh;
-            margin: 2rem 4rem;
-            cursor: pointer;
+          svg{
+                position: absolute;
+                color:#8b6f41;
+                width:7vh;
+                height:7vh;
+                cursor: pointer;
+                top:3rem;
+                right: 4rem;
+            }
             
         }
+
+        div.number, div.number-0{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color:white;
+            background-color: red;
+            font-weight: bold;
+            width:30px;
+            height:30px;
+            border-radius: 50%;
+            position: absolute;
+            top:3.5rem;
+            right:2rem;
+            
+        }
+
+        button{
+            position: absolute;
+            border: none;
+            background-color: transparent;
+            top:3rem;
+            right: 2rem;
+            
+            
+            
+        }
+        
     }
 
-    span.number{
-        color:white;
-        background-color: red;
-        font-weight: bold;
-        padding: 2px 8px;
-        border-radius: 50%;
-        position: relative;
-        right:4rem;
+    
 
-    }
 
-}
+// RWD showMenu
 
