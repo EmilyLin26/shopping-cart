@@ -69,6 +69,7 @@ const Cart = ({ cartItems, onAdd, onRemove }) => {
 							localStorage.clear();
 							alert("Thanks for your purchase!");
 							navigate("/cart-2");
+							window.location.reload();
 						}
 					}}
 				>

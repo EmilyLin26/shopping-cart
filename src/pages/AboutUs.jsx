@@ -4,7 +4,11 @@ const AboutUs = () => {
 	return (
 		<div className="background">
 			<div className="container" style={{ padding: "20px", maxHeight: "80vh" }}>
-				<img src="./imgs/about.jpg" alt="" className="imgAbout" />
+				<img
+					src="https://emilylin26.github.io/shopping-cart/imgs/about.jpg"
+					alt=""
+					className="imgAbout"
+				/>
 				<div className="text">
 					<h2>About us</h2>
 					<p>

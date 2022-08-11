@@ -7,7 +7,11 @@ function Slides() {
 			<Carousel fade style={{ zIndex: "0" }}>
 				{/* FIrstSlide */}
 				<Carousel.Item>
-					<img className="slidesImg" src="./imgs/donut.jpg" alt="First slide" />
+					<img
+						className="slidesImg"
+						src="https://emilylin26.github.io/shopping-cart/imgs/donut.jpg"
+						alt="First slide"
+					/>
 
 					<Carousel.Caption>
 						<p className="font">
@@ -32,7 +36,7 @@ function Slides() {
 				<Carousel.Item>
 					<img
 						className="slidesImg"
-						src="./imgs/cream puff.jpg"
+						src="https://emilylin26.github.io/shopping-cart/imgs/cream puff.jpg"
 						alt="Second slide"
 					/>
 
@@ -58,7 +62,7 @@ function Slides() {
 				<Carousel.Item>
 					<img
 						className="slidesImg"
-						src="./imgs/cookies.jpg"
+						src="https://emilylin26.github.io/shopping-cart/imgs/cookies.jpg"
 						alt="Third slide"
 					/>
 
