@@ -16,7 +16,7 @@ const Nav = ({ countCartItems }) => {
 		<nav>
 			<div className="icon" style={{ cursor: "pointer" }}>
 				<a
-					href="/"
+					href="https://emilylin26.github.io/shopping-cart/"
 					title="Home"
 					style={{ textDecoration: "none", color: "black" }}
 				>
