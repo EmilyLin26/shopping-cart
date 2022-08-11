@@ -1,9 +1,9 @@
 # Shopping-cart
 ## NOTE:
-Because of case sensitive issue, there're no imgs shown on the website.
+You can't see the carousel design when entering github page due to unknown reason, but you still can press Home link to check (at least it works here).
 * Demo video: https://www.youtube.com/watch?v=amzmhSQmvBs
 ### React project : 
-* includes mapping data, useState, lifting State Up, useEffect, localStorage
+* include mapping data, useState, lifting state up, useEffect, localStorage
 
 ### Functions:
 * addToCart and add/ remove items function
