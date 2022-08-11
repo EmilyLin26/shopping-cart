@@ -339,7 +339,7 @@ h5 {
 
 @media screen and (min-width: 350px) and (max-width: 370px) {
   nav {
-    top: -1px;
+    top: 0px;
   }
   nav div.icon {
     position: absolute;
@@ -645,7 +645,7 @@ h5 {
 }
 @media screen and (min-width: 380px) and (max-width: 394px) {
   nav {
-    top: -1px;
+    top: 0px;
   }
   nav div.icon {
     position: absolute;
@@ -797,7 +797,7 @@ h5 {
 }
 @media screen and (min-width: 395px) and (max-width: 450px) {
   nav {
-    top: -1px;
+    top: 0px;
   }
   nav div.icon {
     position: absolute;
