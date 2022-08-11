@@ -1,6 +1,6 @@
 # Shopping-cart
 ## NOTE:
-You can see the carousel design when entering github page due to unknown reason, but you still can press Hompage link to check it (at least it works here).
+You can't see the carousel design when entering github page due to unknown reason, but you still can press Hompage link to check (at least it works here).
 * Demo video: https://www.youtube.com/watch?v=amzmhSQmvBs
 ### React project : 
 * includes mapping data, useState, lifting State Up, useEffect, localStorage
